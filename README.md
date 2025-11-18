@@ -1,1 +1,1 @@
-# c-vua
+pip install pygame
